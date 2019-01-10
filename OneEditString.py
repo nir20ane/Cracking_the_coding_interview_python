@@ -17,6 +17,7 @@ class OneEditString(object):
         index1 = 0
         index2 = 0
         count  = 0
+        if(abs(len1-len2) > 1): return False
         while((index1 < len1) & (index2 < len2)):
             if(str1[index1] != str2[index2]):
                 if(count == 1):
@@ -39,5 +40,6 @@ print(one.oneEditString("ale", "bale"))
 print(one.oneEditString("pale", "balee"))
 print(one.oneEditString("ale", "ale"))
 print(one.oneEditString("ble", "pale"))
+print(one.oneEditString("ble", "paleeeee"))
 
 
