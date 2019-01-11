@@ -4,7 +4,8 @@ column are set to 0.
 * Have two boolean arrays to keep track of row and column that has zero
 * Nullify those rows and columns
 * Time Complexity O(n^2)(row*column); Space Complexity O(n)
-*/"""
+*/
+"""
 class ZeroMatrix_WithLists(object):
     def zeroMatrix(self, matrix):
         row_lst = [False]*len(matrix)  # have two lists with boolean values
