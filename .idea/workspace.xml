@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="055cc923-a816-4719-ba12-7bc4bbcf7aa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Chapter2_LinkedLists/DeleteMiddleNode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2_LinkedLists/IntersectionofLinkedList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2_LinkedLists/LoopDetection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2_LinkedLists/PalindromeList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2_LinkedLists/PartitionList.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates_NoBuffer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2_LinkedLists/ReturnKthtoLast.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chapter2_LinkedLists/SumLists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/BinarytoString.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Debugger.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/FlipBitstoWin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Insertion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/NextNumber.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapter5_Bit_Manipulation/SwapOddEvenBits.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,39 +18,48 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates.py">
+        <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/FlipBitstoWin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+            <state relative-caret-position="480">
+              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates_NoBuffer.py">
+        <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/NextNumber.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/ReturnKthtoLast.py">
+        <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/Debugger.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="75">
+              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/Conversion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/SumLists.py">
+        <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/SwapOddEvenBits.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="750">
-              <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+            <state relative-caret-position="60">
+              <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -60,8 +67,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/PalindromeList.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+            <state relative-caret-position="435">
+              <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -70,7 +77,7 @@
         <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/PartitionList.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+              <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -78,8 +85,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/LoopDetection.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+            <state relative-caret-position="480">
+              <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -88,7 +95,7 @@
         <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/IntersectionofLinkedList.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
-              <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -126,10 +133,23 @@
         <option value="$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates.py" />
         <option value="$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates_NoBuffer.py" />
         <option value="$PROJECT_DIR$/Chapter2_LinkedLists/SumLists.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Stacks_and_Queues/MinStack.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Stacks_and_Queues/StackofPlates.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Stacks_and_Queues/QueueViaStacks.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Stacks_and_Queues/SortStacks.py" />
+        <option value="$PROJECT_DIR$/Chapter3_Stacks_and_Queues/AnimalShelter.py" />
+        <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Insertion.py" />
+        <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/BinarytoString.py" />
+        <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/FlipBitstoWin.py" />
+        <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/NextNumber.py" />
+        <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Debugger.py" />
+        <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Debugger.txt" />
+        <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Conversion.py" />
+        <option value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/SwapOddEvenBits.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1680" />
     <option name="height" value="951" />
@@ -156,6 +176,16 @@
               <item name="Cracking_the_coding_interview_python" type="462c0819:PsiDirectoryNode" />
               <item name="Chapter2_LinkedLists" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Cracking_the_coding_interview_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cracking_the_coding_interview_python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter3_Stacks_and_Queues" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Cracking_the_coding_interview_python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Cracking_the_coding_interview_python" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter5_Bit_Manipulation" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -178,8 +208,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.SumLists">
-    <configuration name="DeleteMiddleNode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.SwapOddEvenBits">
+    <configuration name="BinarytoString" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cracking_the_coding_interview_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -187,11 +217,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2_LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2_LinkedLists/DeleteMiddleNode.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/BinarytoString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +230,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="IntersectionofLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cracking_the_coding_interview_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -208,11 +238,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2_LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2_LinkedLists/IntersectionofLinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/Conversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -221,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PalindromeList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="FlipBitstoWin" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cracking_the_coding_interview_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -229,11 +259,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2_LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2_LinkedLists/PalindromeList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/FlipBitstoWin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -242,7 +272,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PartitionList" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="NextNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cracking_the_coding_interview_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -250,11 +280,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2_LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2_LinkedLists/PartitionList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/NextNumber.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +293,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SumLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="SwapOddEvenBits" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Cracking_the_coding_interview_python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,11 +301,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter2_LinkedLists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter2_LinkedLists/SumLists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter5_Bit_Manipulation/SwapOddEvenBits.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,11 +316,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.SumLists" />
-        <item itemvalue="Python.PartitionList" />
-        <item itemvalue="Python.PalindromeList" />
-        <item itemvalue="Python.IntersectionofLinkedList" />
-        <item itemvalue="Python.DeleteMiddleNode" />
+        <item itemvalue="Python.SwapOddEvenBits" />
+        <item itemvalue="Python.Conversion" />
+        <item itemvalue="Python.NextNumber" />
+        <item itemvalue="Python.FlipBitstoWin" />
+        <item itemvalue="Python.BinarytoString" />
       </list>
     </recent_temporary>
   </component>
@@ -308,29 +338,150 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="951" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24954791" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25135624" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32945284" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993015" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2897959" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3989796" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32945284" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chapter3_Stacks_and_Queues/QueueViaStacks.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/NextNumber.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates_NoBuffer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/ReturnKthtoLast.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/SumLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Stacks_and_Queues/MinStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Stacks_and_Queues/StackofPlates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="41" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Stacks_and_Queues/QueueViaStacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Stacks_and_Queues/SortStacks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter3_Stacks_and_Queues/AnimalShelter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/Insertion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/BinarytoString.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-end-line="5" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/PalindromeList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/PartitionList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="17" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/LoopDetection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="33" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/IntersectionofLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/DeleteMiddleNode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -338,59 +489,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/IntersectionofLinkedList.py">
+    <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/FlipBitstoWin.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        <state relative-caret-position="480">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/LoopDetection.py">
+    <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/NextNumber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" column="33" lean-forward="true" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/PalindromeList.py">
+    <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/Debugger.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/Debugger.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="29" column="19" lean-forward="true" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
+        <state relative-caret-position="75">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/PartitionList.py">
+    <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/Conversion.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+        <state relative-caret-position="270">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates.py">
+    <entry file="file://$PROJECT_DIR$/Chapter5_Bit_Manipulation/SwapOddEvenBits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="28" lean-forward="true" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/RemoveDuplicates_NoBuffer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/ReturnKthtoLast.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="19" lean-forward="true" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Chapter2_LinkedLists/SumLists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="12" lean-forward="true" selection-start-line="50" selection-start-column="12" selection-end-line="50" selection-end-column="12" />
+        <state relative-caret-position="60">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
         </state>
       </provider>
     </entry>

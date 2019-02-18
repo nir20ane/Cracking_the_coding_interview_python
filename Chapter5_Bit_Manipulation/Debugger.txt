@@ -1,0 +1,6 @@
+"""
+Debugger: Explain what the following code does: ((n & (n-1 )) == 0).
+"""
+n & (n-1) == 0, means n and n-1 will never share a 1
+
+The value n is therefore a power of two.
